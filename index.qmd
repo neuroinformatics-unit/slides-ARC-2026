@@ -1,6 +1,6 @@
 ---
-title: Building Community-Driven Software for Neuroscience
-subtitle: Flatiron CCN Software Workshop
+title: Neuroinformatics Unit
+subtitle: ARC Forum
 author: Adam Tyson 
 format:
   revealjs:
@@ -12,18 +12,7 @@ format:
 
 ::: {.columns}
 ::: {.column width="40%"}
-- Sainsbury Wellcome Centre & Gatsby Computational Neuroscience Unit, UCL (London)
-:::
-::: {.column width="60%"}
-![](img/SWC.jpg)
-:::
-:::
-
-## Neuroinformatics Unit{.smaller}
-
-::: {.columns}
-::: {.column width="40%"}
-- Sainsbury Wellcome Centre & Gatsby Computational Neuroscience Unit, UCL (London)
+- Sainsbury Wellcome Centre & Gatsby Computational Neuroscience Unit, UCL
 
 :::{.fragment}
 - (Systems) neuroscience & machine learning **research software engineering** group
@@ -34,11 +23,39 @@ format:
 :::
 
 :::
-::: {.column width="60"}
-![](img/SWC_map_pin.png)
+::: {.column width="60%"}
+![](img/SWC.jpg)
 :::
 :::
 
+## Team {.smaller}
+
+::: {layout-nrow=2}
+
+![Laura Porta](img/laura_porta.png)
+
+![Chang Huan Lo](img/chang_huan_lo.png)
+
+![Joe Ziminski](img/joe_ziminski.png)
+
+![Alessandro Felder](img/alessandro_felder.png)
+
+![Niko Sirmpilatze](img/niko_sirmpilatze.png)
+
+![Igor Tatarnikov](img/igor_tatarnikov.jpg)
+
+![Sofía Miñano](img/sofia_minano.png)
+
+![Viktor Plattner](img/viktor_plattner.jpg)
+
+![Harry Carey](img/harry_carey.png)
+
+![Saarah Hussain](img/saarah_hussain.jpg)
+
+![Amirreza Bahramani](img/amirreza_bahramani.jpg)
+
+![Jung Woo Kim](img/jung_woo_kim.jpg)
+:::
 
 ## What we do
 :::{.incremental}
@@ -360,34 +377,7 @@ Brain Atlas
 
 ![](img/funders.png){fig-align="center"}
 
-## Team {.smaller}
 
-::: {layout-nrow=2}
-
-![Laura Porta](img/laura_porta.png)
-
-![Chang Huan Lo](img/chang_huan_lo.png)
-
-![Joe Ziminski](img/joe_ziminski.png)
-
-![Alessandro Felder](img/alessandro_felder.png)
-
-![Niko Sirmpilatze](img/niko_sirmpilatze.png)
-
-![Igor Tatarnikov](img/igor_tatarnikov.jpg)
-
-![Sofía Miñano](img/sofia_minano.png)
-
-![Viktor Plattner](img/viktor_plattner.jpg)
-
-![Harry Carey](img/harry_carey.png)
-
-![Saarah Hussain](img/saarah_hussain.jpg)
-
-![Amirreza Bahramani](img/amirreza_bahramani.jpg)
-
-![Jung Woo Kim](img/jung_woo_kim.jpg)
-:::
 
 ## Contributors
 
