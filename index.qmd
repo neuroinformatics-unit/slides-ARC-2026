@@ -30,7 +30,13 @@ format:
 
 ## Team {.smaller}
 
-::: {layout-nrow=2}
+```{=html}
+<style>
+.reveal .team figcaption { text-align: center; }
+</style>
+```
+
+::: {.team layout-nrow=2}
 
 ![Laura Porta](img/laura_porta.png)
 
@@ -46,15 +52,18 @@ format:
 
 ![Sofía Miñano](img/sofia_minano.png)
 
+![Chris Halcrow](img/chris_halcrow.jpg)
+
+![Joanne Sheppard](img/joanne_sheppard.jpg)
+
 ![Viktor Plattner](img/viktor_plattner.jpg)
 
 ![Harry Carey](img/harry_carey.png)
 
-![Saarah Hussain](img/saarah_hussain.jpg)
-
 ![Amirreza Bahramani](img/amirreza_bahramani.jpg)
 
 ![Jung Woo Kim](img/jung_woo_kim.jpg)
+
 :::
 
 ## What we do
