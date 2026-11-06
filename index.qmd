@@ -87,12 +87,105 @@ Why we like ARC:
 - Continuity (knowledge stays at UCL)
 :::
 
+## #495 - BrainGlobe napari plugins
 
-## BrainGlobe Template Builder
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+David Stansby, Paddy Roddy, David Pérez-Suárez, Alessandro Felder
+:::
 
-## Making brain connectivity data accessible 
+## #686 - Improving BrainGlobe's sustainability
 
-## Movement
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+David Stansby, Alessandro Felder, Will Graham, Sofia Miñano, Kimberly Meechan, Stella Prins, Miguel Xochicale
+:::
+
+## #1926 - Making brain connectivity data accessible 
+![](img/neurome.png){height=450}
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Swanson et al. (2025), PNAS
+:::
+
+## #1926 - Making brain connectivity data accessible 
+
+:::: {.columns}
+
+
+::: {.column width="40%"}
+
+- Python API
+- Django frontend
+- Deployed via AWS
+- TBC!
+:::
+::: {.column width="60%"}
+![](img/neurome-browser.png){fig-align=left}
+:::
+::::
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Stella Prins, Kimberly Meechan, Will Graham
+:::
+
+::: footer
+[neurome.brainglobe.info](https://neurome.brainglobe.info)
+:::
+
+## #1495 - Productionising BrainGlobe Template Builder
+
+![](img/blackcap_atlas.gif){fig-align="center"}
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+ Sirmpilatze, Felder & Abdulazhanova et al. (2026), Cell Reports
+:::
+
+::: footer
+[brainglobe.info/brainglobe-template-builder](https://brainglobe.info/brainglobe-template-builder/index.html)
+:::
+
+## #1495 - Productionising BrainGlobe Template Builder
+
+* Simplify workflow
+* Reduce duplication of code
+* Remove difficult dependencies
+* Improve quality control plots
+* Improve graphical user interface
+* Improve logging
+* Improve documentation
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+ Kimberly Meechan, Stella Prins
+:::
+
+::: footer
+[brainglobe.info/brainglobe-template-builder](https://brainglobe.info/brainglobe-template-builder/index.html)
+:::
+
+##  #1270 - expanding movement features
+![](img/movement_overview.png){height=450}
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Niko Sirmpilatze
+:::
+
+::: footer
+[movement.neuroinformatics.dev](https://movement.neuroinformatics.dev/)
+:::
+
+##  #1270 - expanding movement features 
+
+* Define spatial regions of interest
+* Streamlining plotting
+* Create new example use cases
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Stella Prins, Will Graham
+:::
+
+
+::: footer
+[movement.neuroinformatics.dev](https://movement.neuroinformatics.dev/)
+:::
 
 ## Database management
 
@@ -308,77 +401,16 @@ Brain Atlas
 [brainglobe.info/documentation/brainrender](https://brainglobe.info/documentation/brainrender/index.html)
 :::
 
-## Building novel atlases
-![](img/blackcap_atlas.gif){fig-align="center"}
 
-::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
-[Sirmpilatze et al. (2026) Current Biology](https://doi.org/10.1016/j.cub.2026.03.034)
-:::
 
-::: footer
-[brainglobe.info/brainglobe-template-builder](https://brainglobe.info/brainglobe-template-builder/index.html)
-:::
 
-## Community
-:::{.incremental}
-* Focus on ease of use & accessibility
-* Responsive user & developer forums
-* Fully open development
-* Public development meetings
-* &gt;3M downloads
-* &gt;3k contributions from >150 scientists & engineers
-* &gt;80 dependent tools
-:::
 
 ::: footer
 [brainglobe.info](https://brainglobe.info)
 :::
 
 
-# Behaviour
 
-
-## Computer vision for behaviour
-
-![](img/gap_after_tracking.png){style="clip-path: inset(0 43% 0 0);"}
-
-## Computer vision for behaviour
-
-![](img/gap_after_tracking.png)
-
-## `movement`
-
-![](img/movement_overview.png){height=450}
-
-
-::: footer
-[movement.neuroinformatics.dev](https://movement.neuroinformatics.dev/)
-:::
-
-## Computer vision for behaviour
-
-![](img/gap_after_tracking.png){style="clip-path: inset(0 43% 0 0);"}
-
-
-## PoseInterface
-![](img/poseinterface_overview.png){fig-align="center"style="clip-path: inset(0 58% 0 0);"}
-
-## PoseInterface
-![](img/poseinterface_overview.png){fig-align="center"}
-
-::: footer
-[poseinterface.neuroinformatics.dev](https://poseinterface.neuroinformatics.dev/)
-:::
-
-# Functional Imaging
-
-
-## photon-mosaic
-![](img/photon-mosaic.png){fig-align="center"}
-
-::: footer
-[photon-mosaic.org](https://photon-mosaic.org/)
-:::
 
 ## Future collaboration
 
