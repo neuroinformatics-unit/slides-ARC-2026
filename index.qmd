@@ -118,12 +118,10 @@ format:
 ## #1495 - Productionising BrainGlobe Template Builder
 
 * Simplify workflow
-* Reduce duplication of code
+* Reduce technical debt
 * Remove difficult dependencies
-* Improve quality control plots
-* Improve graphical user interface
-* Improve logging
-* Improve documentation
+* Improve UI, & documentation
+
 
 ::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
  Kimberly Meechan, Stella Prins
