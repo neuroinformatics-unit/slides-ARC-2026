@@ -138,6 +138,20 @@ format:
 
 ## #1413 - Database management
 
+* Large SWC project uses DataJoint databases
+* Support bought in externally
+* Bring it in-house
+
+## #1413 - Database management
+
+* Replicate database on SWC infrastructure
+* Containerise
+* Document deployment
+* Next: run pipelines on HPC
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Mahmoud Abdelrazek, Socrates Varakliotis
+:::
 
 
 # Flexibility (avoid short-term contracts)
