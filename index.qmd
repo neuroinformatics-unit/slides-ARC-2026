@@ -22,6 +22,11 @@ format:
 
 :::
 
+:::{.fragment}
+- Associate ARC members & ARC spoke
+
+:::
+
 :::
 ::: {.column width="60%"}
 ![](img/SWC.jpg)
