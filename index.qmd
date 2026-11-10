@@ -82,13 +82,13 @@ format:
 
 * **#495 - BrainGlobe napari plugins** (David Stansby, Paddy Roddy, David Pérez-Suárez, Alessandro Felder)
 
-* **#686 - Improving BrainGlobe's sustainability** (David Stansby, Alessandro Felder, Will Graham, Sofia Miñano, Kimberly Meechan, Stella Prins, Miguel Xochicale)
+* **#686 - Improving BrainGlobe's sustainability** (David Stansby, Alessandro Felder, Will Graham, Sofía Miñano, Kimberly Meechan, Stella Prins, Miguel Xochicale)
 
-* **#745 - Crab tracking** (Sofia Miñano, Nik Khadijah Nik Aznan, Sam Cunliffe)
+* **#745 - Crab tracking** (Sofía Miñano, Nik Khadijah Nik Aznan, Sam Cunliffe)
 
-* **#1270 - expanding movement features** (Stella Prins, Will Graham)
+* **#1270 - Expanding movement features** (Stella Prins, Will Graham)
 
-* **#1413 - Database management** (Mahmoud Abdelrazek,  Socrates Varakliotis)
+* **#1413 - Database management** (Mahmoud Abdelrazek, Socrates Varakliotis)
 
 * **#1495 - Productionising BrainGlobe Template Builder** (Kimberly Meechan, Stella Prins)
 
@@ -120,7 +120,7 @@ format:
 * Simplify workflow
 * Reduce technical debt
 * Remove difficult dependencies
-* Improve UI, & documentation
+* Improve UI & documentation
 
 
 ::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
@@ -154,7 +154,7 @@ Mahmoud Abdelrazek, Socrates Varakliotis
 
 # Flexibility (avoid short-term contracts)
  
-## #1270 - expanding movement features
+## #1270 - Expanding movement features
 ![](img/movement_overview.png){height=400}
 
 ::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
@@ -165,10 +165,10 @@ Niko Sirmpilatze
 [movement.neuroinformatics.dev](https://movement.neuroinformatics.dev/)
 :::
 
-## #1270 - expanding movement features
+## #1270 - Expanding movement features
 
 * Define spatial regions of interest
-* Streamlining plotting
+* Streamline plotting
 * Create new example use cases
 
 ::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
@@ -198,6 +198,10 @@ Open-Source Colony assessment Resource (OSCaR)
 ![](img/oscar.png){fig-align=left}
 :::
 ::::
+
+::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Kimberly Meechan, Henry Crosswell, Tom Couch
+:::
 
 ## #1926 - Making brain connectivity data accessible 
 ![](img/neurome.png){height=450}
@@ -234,7 +238,7 @@ Stella Prins, Kimberly Meechan, Will Graham
 
 ## Neuroscience at UCL
 
-* 1/3 of university's research income
+* 1/3 of the university's research income
 * Relatively disjointed
 * Labs "reinventing the wheel"
 
@@ -265,5 +269,5 @@ Is there a more coherent way for NIU & ARC to offer services to the (huge) UCL n
 
 ::: {style="font-size: 45%;"}
 
-Adrien Berchet, Mathieu Bourdenx, bkntr, NovaFae, David Young, Sam Clothier, Gubra-ApS, Kailyn Fields, ramroomh, Samuel Diebolt, Chris Roat, Oren Amsalem, kclamar, Draga Doncila Pop, juanma9613, Jules Scholler, Iaroslavna Vasylieva, Nicolas Peschke, Justin Kiggins, Peter Sobolewski, Simão Bolota, chili-chiu, jaimergp, Sebastian Lammers, Matt Colligan, Paul Brodersen, Carter Peene, francesshei, Sean Martin, Ben Dichter, 4iar, Marco Musy, Anna Medyukhina, stegiopast, EmanPaoli, lidakanari, Alexis Arnaudon, Ziyang Liu, Will Graham, Patrick Roddy, Philip Shamash, Christian Niedworok, Charly Rousseau, Horst Obenhaus, Chryssanthi Tsitoura, Sepiedeh Keshavarzi, Mateo Vélez-Fort, Stephen Lenzi, Rob Campbell, Alessandro Felder, Federico Claudi, Luigi Petrucco, Adam Tyson, Troy Margrie, Tiago Branco, Ruben Portugues, Joe Ziminski, Sofia Miñano, Niko Sirmpilatze, Nicholas Del Grosso, Laura Porta, Lee Cossell, Antonin Blot, David Pérez-Suárez, David Stansby,  koushik-ms, Harald Reingruber, Emily Jane Dennis, Peak, Maximilian Blacher, Hernando Martinez Vergara, Estelle, nicole-vissers, GD, Michael Kunst, Estelle Nassar, Sara Mederos, Igor Tatarnikov, Viktor Plattner, Carlo Castoldi, Jingjie Li, Guillaume Le Goc, Harry Carey, Matt Einhorn, Kimberly Meechan, Robert Kozol, Roberto, Axel Bisi, Jung Woo Kim, Saima Abdus, Saarah Hussain, Sacha Hadaway-Andreae, Presa, Henry Crosswell, Nischit Kumar, Kirato Yoshihara, Leonard Schwigon, Dinora Abdulazhanova, Katrin Haase, Dominik Heyers, Isabelle Museliak, Henrik Mouritsen, Simon Weiler, Stella Prins, Richard Dushime, Miguel Xochicale, M S P, Abdul Samad, Prisha Sharma, Farida Yusuf, Anshu Saini, Menna1812, ayush2281, BethCr, Swapnaneel Patra, Xiaoyu Deng, DwarvesEatRocks, DPWebster, Conrad, pranav33317, Biswanath Saha, Federico F, Tim Monko, Kaixiang Shuai, Giulia Paci, Marco Dalla Vecchia, Pavel Vychyk, Ishrat Zaman, Fatma S. Elsharkawy, Chang Huan Lo, Pascal Malkemper, Alireza Saeedi, Nasibeh Amini, Aref hossein Akhlaghi, Li Zhang, Leoni-Marie Webb, Nishanth B, Ardavan Shahrabi, Varun Singh, Harshdip Saha, sid-42-d, James Rowland, Kavyashah067, Aditya Gupta, Luigi Meola, Ajitesh Kumar Singh, Chandrika, Hargun Kaur, Rahul Bera, Hashbrownsss, Divyansh Gupta, Yaroslav Halchenko, Bhanushali Parth Hitesh, Harsh Bhanushali, Tushar Verma, maxstaras, Akseli Ilmanen, Lakshmi Sowmya, Sparshr04, Shigraf Salik, Vedant Vakharia, ishan372or, Holly Morley, Parth Chatupale, Shreecharana N, Eric Denovellis,  Iván Varela, Vaco Schiavo, Laura Schwarz, Mohamed Reda, Mikkel Roald-Arbøl, Sanjana Soni, vybhav72954, Kasra Shirvanian, Kunal Dadlani, Dhruv Yadav, angkul07, Eduardo Augusto, CeliaLrt, Animesh Sasan, Tushar Das, Dhruv Sharma, Ishaan Shaikh, Brandon Peri, Shrey Singh, Damacharla Sushma, Sumana Sree Angajala,  Shreejan Dolai, Aryan Srivastava, Alexandro Berumen, Alessio Buccino, Arielle Leon, Sergio Valbuena, Matthew Scroggs, kawaho4, Andrew Moffitt, Ankush Agarwal
+Adrien Berchet, Mathieu Bourdenx, bkntr, NovaFae, David Young, Sam Clothier, Gubra-ApS, Kailyn Fields, ramroomh, Samuel Diebolt, Chris Roat, Oren Amsalem, kclamar, Draga Doncila Pop, juanma9613, Jules Scholler, Iaroslavna Vasylieva, Nicolas Peschke, Justin Kiggins, Peter Sobolewski, Simão Bolota, chili-chiu, jaimergp, Sebastian Lammers, Matt Colligan, Paul Brodersen, Carter Peene, francesshei, Sean Martin, Ben Dichter, 4iar, Marco Musy, Anna Medyukhina, stegiopast, EmanPaoli, lidakanari, Alexis Arnaudon, Ziyang Liu, Will Graham, Patrick Roddy, Philip Shamash, Christian Niedworok, Charly Rousseau, Horst Obenhaus, Chryssanthi Tsitoura, Sepiedeh Keshavarzi, Mateo Vélez-Fort, Stephen Lenzi, Rob Campbell, Alessandro Felder, Federico Claudi, Luigi Petrucco, Adam Tyson, Troy Margrie, Tiago Branco, Ruben Portugues, Joe Ziminski, Sofía Miñano, Niko Sirmpilatze, Nicholas Del Grosso, Laura Porta, Lee Cossell, Antonin Blot, David Pérez-Suárez, David Stansby,  koushik-ms, Harald Reingruber, Emily Jane Dennis, Peak, Maximilian Blacher, Hernando Martinez Vergara, Estelle, nicole-vissers, GD, Michael Kunst, Estelle Nassar, Sara Mederos, Igor Tatarnikov, Viktor Plattner, Carlo Castoldi, Jingjie Li, Guillaume Le Goc, Harry Carey, Matt Einhorn, Kimberly Meechan, Robert Kozol, Roberto, Axel Bisi, Jung Woo Kim, Saima Abdus, Saarah Hussain, Sacha Hadaway-Andreae, Presa, Henry Crosswell, Nischit Kumar, Kirato Yoshihara, Leonard Schwigon, Dinora Abdulazhanova, Katrin Haase, Dominik Heyers, Isabelle Museliak, Henrik Mouritsen, Simon Weiler, Stella Prins, Richard Dushime, Miguel Xochicale, M S P, Abdul Samad, Prisha Sharma, Farida Yusuf, Anshu Saini, Menna1812, ayush2281, BethCr, Swapnaneel Patra, Xiaoyu Deng, DwarvesEatRocks, DPWebster, Conrad, pranav33317, Biswanath Saha, Federico F, Tim Monko, Kaixiang Shuai, Giulia Paci, Marco Dalla Vecchia, Pavel Vychyk, Ishrat Zaman, Fatma S. Elsharkawy, Chang Huan Lo, Pascal Malkemper, Alireza Saeedi, Nasibeh Amini, Aref hossein Akhlaghi, Li Zhang, Leoni-Marie Webb, Nishanth B, Ardavan Shahrabi, Varun Singh, Harshdip Saha, sid-42-d, James Rowland, Kavyashah067, Aditya Gupta, Luigi Meola, Ajitesh Kumar Singh, Chandrika, Hargun Kaur, Rahul Bera, Hashbrownsss, Divyansh Gupta, Yaroslav Halchenko, Bhanushali Parth Hitesh, Harsh Bhanushali, Tushar Verma, maxstaras, Akseli Ilmanen, Lakshmi Sowmya, Sparshr04, Shigraf Salik, Vedant Vakharia, ishan372or, Holly Morley, Parth Chatupale, Shreecharana N, Eric Denovellis,  Iván Varela, Vaco Schiavo, Laura Schwarz, Mohamed Reda, Mikkel Roald-Arbøl, Sanjana Soni, vybhav72954, Kasra Shirvanian, Kunal Dadlani, Dhruv Yadav, angkul07, Eduardo Augusto, CeliaLrt, Animesh Sasan, Tushar Das, Dhruv Sharma, Ishaan Shaikh, Brandon Peri, Shrey Singh, Damacharla Sushma, Sumana Sree Angajala,  Shreejan Dolai, Aryan Srivastava, Alexandro Berumen, Alessio Buccino, Arielle Leon, Sergio Valbuena, Matthew Scroggs, kawaho4, Andrew Moffitt, Ankush Agarwal
 :::
