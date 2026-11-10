@@ -61,7 +61,7 @@ format:
 
 ![Joanne Sheppard](img/joanne_sheppard.jpg)
 
-![James Tyrrell](img/placeholder.svg)
+![James Tyrrell](img/james_tyrrell.png)
 
 ![Viktor Plattner](img/viktor_plattner.jpg)
 
